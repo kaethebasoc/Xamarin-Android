@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/previousandnext">
+	<item android:id="@+id/previous"
+				android:icon="@drawable/previous"
+				android:showAsAction="always"
+				android:orderInCategory="100"
+				android:title="Previous">
+	</item>
+	<item android:id="@+id/next"
+				android:icon="@drawable/next"
+				android:showAsAction="always"
+				android:orderInCategory="100"
+				android:title="Next">
+</item>
+</menu>

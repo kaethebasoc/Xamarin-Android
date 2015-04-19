@@ -1,0 +1,88 @@
+C:\New folder\QuickNote\QuickNote\bin\Debug\QuickNote.dll
+C:\New folder\QuickNote\QuickNote\bin\Debug\QuickNote.pdb
+C:\New folder\QuickNote\QuickNote\bin\Debug\QuickNote.dll.mdb
+C:\New folder\QuickNote\QuickNote\bin\Debug\QuickNote.QuickNote.apk
+C:\New folder\QuickNote\QuickNote\bin\Debug\QuickNote.QuickNote-Signed.apk
+C:\New folder\QuickNote\QuickNote\bin\Debug\ActionBarSherlock.dll
+C:\New folder\QuickNote\QuickNote\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\New folder\QuickNote\QuickNote\obj\Debug\QuickNote.dll
+C:\New folder\QuickNote\QuickNote\obj\Debug\QuickNote.pdb
+C:\New folder\QuickNote\QuickNote\obj\Debug\android\bin\QuickNote.QuickNote.apk
+C:\New folder\QuickNote\QuickNote\obj\Debug\res\layout\main.xml
+C:\New folder\QuickNote\QuickNote\obj\Debug\res\values\strings.xml
+C:\New folder\QuickNote\QuickNote\obj\Debug\res\layout\customrow.xml
+C:\New folder\QuickNote\QuickNote\obj\Debug\res\layout\viewitem.xml
+C:\New folder\QuickNote\QuickNote\obj\Debug\res\layout\additem.xml
+C:\New folder\QuickNote\QuickNote\obj\Debug\res\menu\mainmenu.xml
+C:\New folder\QuickNote\QuickNote\obj\Debug\res\drawable\gradient_bg.xml
+C:\New folder\QuickNote\QuickNote\obj\Debug\res\drawable\gradient_bg_hover.xml
+C:\New folder\QuickNote\QuickNote\obj\Debug\res\drawable\list_selector.xml
+C:\New folder\QuickNote\QuickNote\obj\Debug\res\menu\popupmenu.xml
+C:\New folder\QuickNote\QuickNote\obj\Debug\res\layout\search.xml
+C:\New folder\QuickNote\QuickNote\obj\Debug\res\drawable\next.png
+C:\New folder\QuickNote\QuickNote\obj\Debug\res\menu\previousandnext.xml
+C:\New folder\QuickNote\QuickNote\obj\Debug\res\layout\collapsible_edittext.xml
+C:\New folder\QuickNote\QuickNote\obj\Debug\res\drawable-hdpi\next.png
+C:\New folder\QuickNote\QuickNote\obj\Debug\res\drawable-mdpi\next.png
+C:\New folder\QuickNote\QuickNote\obj\Debug\res\drawable-xhdpi\next.png
+C:\New folder\QuickNote\QuickNote\obj\Debug\res\drawable-xxhdpi\next.png
+C:\New folder\QuickNote\QuickNote\obj\Debug\res\drawable-xxxhdpi\next.png
+C:\New folder\QuickNote\QuickNote\obj\Debug\res\drawable\arrowright.png
+C:\New folder\QuickNote\QuickNote\obj\Debug\res\drawable\previous.png
+C:\New folder\QuickNote\QuickNote\obj\Debug\res\drawable-hdpi\previous.png
+C:\New folder\QuickNote\QuickNote\obj\Debug\res\drawable-mdpi\previous.png
+C:\New folder\QuickNote\QuickNote\obj\Debug\res\drawable-xhdpi\previous.png
+C:\New folder\QuickNote\QuickNote\obj\Debug\res\drawable-xxhdpi\previous.png
+C:\New folder\QuickNote\QuickNote\obj\Debug\res\drawable-xxxhdpi\previous.png
+C:\New folder\QuickNote\QuickNote\obj\Debug\res\drawable\icon.png
+C:\New folder\QuickNote\QuickNote\obj\Debug\res\drawable-hdpi\icon.png
+C:\New folder\QuickNote\QuickNote\obj\Debug\res\drawable-mdpi\icon.png
+C:\New folder\QuickNote\QuickNote\obj\Debug\res\drawable-xhdpi\icon.png
+C:\New folder\QuickNote\QuickNote\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\New folder\QuickNote\QuickNote\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\New folder\QuickNote\QuickNote\obj\Debug\R.cs.flag
+C:\New folder\QuickNote\QuickNote\obj\Debug\uploadflags.txt
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\QuickNote\bin\Debug\QuickNote.dll
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\QuickNote\bin\Debug\QuickNote.pdb
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\QuickNote\bin\Debug\QuickNote.dll.mdb
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\QuickNote\bin\Debug\QuickNote.QuickNote.apk
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\QuickNote\bin\Debug\QuickNote.QuickNote-Signed.apk
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\QuickNote\bin\Debug\ActionBarSherlock.dll
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\QuickNote\bin\Debug\Xamarin.Android.Support.v4.dll
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\QuickNote\obj\Debug\QuickNote.dll
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\QuickNote\obj\Debug\QuickNote.pdb
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\QuickNote\obj\Debug\android\bin\QuickNote.QuickNote.apk
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\QuickNote\obj\Debug\res\layout\main.xml
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\QuickNote\obj\Debug\res\values\strings.xml
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\QuickNote\obj\Debug\res\layout\customrow.xml
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\QuickNote\obj\Debug\res\layout\viewitem.xml
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\QuickNote\obj\Debug\res\layout\additem.xml
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\QuickNote\obj\Debug\res\menu\mainmenu.xml
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\QuickNote\obj\Debug\res\drawable\gradient_bg.xml
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\QuickNote\obj\Debug\res\drawable\gradient_bg_hover.xml
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\QuickNote\obj\Debug\res\drawable\list_selector.xml
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\QuickNote\obj\Debug\res\menu\popupmenu.xml
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\QuickNote\obj\Debug\res\layout\search.xml
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\QuickNote\obj\Debug\res\drawable\next.png
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\QuickNote\obj\Debug\res\menu\previousandnext.xml
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\QuickNote\obj\Debug\res\layout\collapsible_edittext.xml
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\QuickNote\obj\Debug\res\drawable-hdpi\next.png
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\QuickNote\obj\Debug\res\drawable-mdpi\next.png
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\QuickNote\obj\Debug\res\drawable-xhdpi\next.png
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\QuickNote\obj\Debug\res\drawable-xxhdpi\next.png
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\QuickNote\obj\Debug\res\drawable-xxxhdpi\next.png
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\QuickNote\obj\Debug\res\drawable\arrowright.png
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\QuickNote\obj\Debug\res\drawable\previous.png
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\QuickNote\obj\Debug\res\drawable-hdpi\previous.png
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\QuickNote\obj\Debug\res\drawable-mdpi\previous.png
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\QuickNote\obj\Debug\res\drawable-xhdpi\previous.png
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\QuickNote\obj\Debug\res\drawable-xxhdpi\previous.png
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\QuickNote\obj\Debug\res\drawable-xxxhdpi\previous.png
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\QuickNote\obj\Debug\res\drawable\icon.png
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\QuickNote\obj\Debug\res\drawable-hdpi\icon.png
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\QuickNote\obj\Debug\res\drawable-mdpi\icon.png
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\QuickNote\obj\Debug\res\drawable-xhdpi\icon.png
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\QuickNote\obj\Debug\res\drawable-xxhdpi\icon.png
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\QuickNote\obj\Debug\res\drawable-xxxhdpi\icon.png
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\QuickNote\obj\Debug\R.cs.flag
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\QuickNote\obj\Debug\uploadflags.txt

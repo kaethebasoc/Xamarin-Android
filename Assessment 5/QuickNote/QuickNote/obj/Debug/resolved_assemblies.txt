@@ -1,0 +1,8 @@
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\QuickNote\bin\Debug\QuickNote.dll
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\Components\XamarinActionBarSherlock-4.4.0.6\lib\android\ActionBarSherlock.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v4.4\Mono.Android.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\mscorlib.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.Core.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.Xml.dll
+S:\Software\Kaethe Basoc\Assessment 5\QuickNote\Components\XamarinActionBarSherlock-4.4.0.6\lib\android\Xamarin.Android.Support.v4.dll
