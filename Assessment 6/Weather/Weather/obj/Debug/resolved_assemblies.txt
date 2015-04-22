@@ -1,0 +1,6 @@
+S:\Software\Kaethe Basoc\Assessment 6\Weather\Weather\bin\Debug\Weather.dll
+S:\Software\Kaethe Basoc\Assessment 6\Weather\Components\XamarinActionBarSherlock-4.4.0.6\lib\android\ActionBarSherlock.dll
+S:\Software\Kaethe Basoc\Assessment 6\Weather\packages\Newtonsoft.Json.6.0.8\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll
+S:\Software\Kaethe Basoc\Assessment 6\Weather\Components\restsharp-105.0.1.0\lib\android\RestSharp.MonoDroid.dll
+S:\Software\Kaethe Basoc\Assessment 6\Weather\Components\urlimageviewhelper-1.0.4\lib\android\UrlImageViewHelper.dll
+S:\Software\Kaethe Basoc\Assessment 6\Weather\Components\XamarinActionBarSherlock-4.4.0.6\lib\android\Xamarin.Android.Support.v4.dll

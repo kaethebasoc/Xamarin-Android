@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/linearLayout2"
+    android:fitsSystemWindows="true">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout1">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/btnPrevious"
+            android:background="@drawable/ic_previous" />
+        <TextView
+            android:text="City"
+            android:id="@+id/txtCity"
+            android:textSize="20sp"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:layout_weight="2"
+            android:textColor="#ffffffff" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/btnNext"
+            android:background="@drawable/ic_next" />
+    </LinearLayout>
+    <TextView
+        android:id="@+id/timeDisplay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TIME"
+        android:textSize="50sp"
+        android:textColor="#ffffffff"
+        android:gravity="right" />
+    <TextView
+        android:id="@+id/dateDisplay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="DATE"
+        android:textSize="20sp"
+        android:textColor="#ffffffff"
+        android:gravity="right" />
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout3"
+        android:gravity="center_horizontal">
+        <TextView
+            android:text="28°C"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="80sp"
+            android:id="@+id/day1Temp"
+            android:gravity="center"
+            android:textColor="#ff45a9db" />
+        <TextView
+            android:text="Condition"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="#ffffffff"
+            android:textStyle="bold"
+            android:id="@+id/day1Condition" />
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/linearLayout4">
+            <TextView
+                android:text="Max"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/day1Max"
+                android:textColor="#ffffffff" />
+            <TextView
+                android:text=" / "
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/slash" />
+            <TextView
+                android:text="Min"
+                android:textSize="20sp"
+                android:id="@+id/day1Min"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:textColor="#ffffffff" />
+        </LinearLayout>
+        <TextView
+            android:text="Humidity"
+            android:textSize="20sp"
+            android:id="@+id/Humidity"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffffff" />
+        <TextView
+            android:text="4 Days"
+            android:textSize="30sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txt4Days"
+            android:gravity="center"
+            android:textColor="#ffffffff"
+            android:typeface="normal" />
+    </LinearLayout>
+    <TableLayout
+        android:id="@+id/tableLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:shrinkColumns="*"
+        android:stretchColumns="*"
+        android:orientation="horizontal"
+        android:showDividers="none">
+        <TableRow
+            android:id="@+id/tableRow1"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent">
+            <TextView
+                android:id="@+id/Day2"
+                android:text="Day 2"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                android:layout_column="0"
+                android:gravity="center"
+                android:textColor="#ffffffff" />
+            <TextView
+                android:id="@+id/Day3"
+                android:text="Day 3"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:textColor="#ffffffff" />
+            <TextView
+                android:id="@+id/Day4"
+                android:text="Day 4"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:textColor="#ffffffff" />
+            <TextView
+                android:text="Day 5"
+                android:id="@+id/Day5"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:textColor="#ffffffff" />
+        </TableRow>
+        <TableRow
+            android:id="@+id/tableRow3"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:gravity="center">
+            <ImageView
+                android:id="@+id/ivday2"
+                android:src="@drawable/suuny"
+                android:layout_column="0"
+                android:layout_height="50dp" />
+            <ImageView
+                android:id="@+id/ivday3"
+                android:src="@drawable/suuny"
+                android:layout_height="50dp" />
+            <ImageView
+                android:id="@+id/ivday4"
+                android:src="@drawable/suuny"
+                android:layout_height="50dp" />
+            <ImageView
+                android:id="@+id/ivday5"
+                android:src="@drawable/suuny"
+                android:layout_height="50dp" />
+        </TableRow>
+        <TableRow
+            android:layout_height="wrap_content"
+            android:id="@+id/tableRow2"
+            android:layout_width="match_parent">
+            <TextView
+                android:text="few clouds"
+                android:id="@+id/day2Condition"
+                android:textSize="15sp"
+                android:gravity="center_horizontal"
+                android:layout_column="0"
+                android:textColor="#ffffffff" />
+            <TextView
+                android:text="scattered clouds"
+                android:id="@+id/day3Condition"
+                android:textSize="15sp"
+                android:gravity="center_horizontal"
+                android:textColor="#ffffffff" />
+            <TextView
+                android:text="broken clouds"
+                android:id="@+id/day4Condition"
+                android:textSize="15sp"
+                android:gravity="center_horizontal"
+                android:textColor="#ffffffff" />
+            <TextView
+                android:text="shower rain"
+                android:id="@+id/day5Condition"
+                android:textSize="15sp"
+                android:gravity="center_horizontal"
+                android:textColor="#ffffffff" />
+        </TableRow>
+        <TableRow
+            android:layout_height="wrap_content"
+            android:id="@+id/tableRow2"
+            android:layout_width="match_parent">
+            <TextView
+                android:text="26°F"
+                android:id="@+id/day2Max"
+                android:textSize="15sp"
+                android:gravity="center_horizontal"
+                android:layout_column="0"
+                android:textColor="#ffffffff" />
+            <TextView
+                android:text="23°F"
+                android:id="@+id/day3Max"
+                android:textSize="15sp"
+                android:gravity="center_horizontal"
+                android:textColor="#ffffffff" />
+            <TextView
+                android:text="17°F"
+                android:id="@+id/day4Max"
+                android:textSize="15sp"
+                android:gravity="center_horizontal"
+                android:textColor="#ffffffff" />
+            <TextView
+                android:text="19°F"
+                android:id="@+id/day5Max"
+                android:textSize="15sp"
+                android:gravity="center_horizontal"
+                android:textColor="#ffffffff" />
+        </TableRow>
+        <TableRow
+            android:layout_height="wrap_content"
+            android:id="@+id/tableRow2"
+            android:layout_width="match_parent">
+            <TextView
+                android:text="14°F"
+                android:id="@+id/day2Min"
+                android:textSize="15sp"
+                android:gravity="center_horizontal"
+                android:layout_column="0"
+                android:textColor="#ffffffff" />
+            <TextView
+                android:text="3°F"
+                android:id="@+id/day3Min"
+                android:textSize="15sp"
+                android:gravity="center_horizontal"
+                android:textColor="#ffffffff" />
+            <TextView
+                android:text="5°F"
+                android:id="@+id/day4Min"
+                android:textSize="15sp"
+                android:gravity="center_horizontal"
+                android:textColor="#ffffffff" />
+            <TextView
+                android:text="6°F"
+                android:id="@+id/day5Min"
+                android:textSize="15sp"
+                android:gravity="center_horizontal"
+                android:textColor="#ffffffff" />
+        </TableRow>
+    </TableLayout>
+</LinearLayout>

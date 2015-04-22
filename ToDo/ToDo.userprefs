@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="ToDo\ToDo.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.CB5A1PBA8U" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ToDo\ViewList.cs">
+    <Files>
+      <File FileName="ToDo\ToDo.cs" Line="42" Column="42" />
+      <File FileName="ToDo\ParseHandler.cs" Line="44" Column="44" />
+      <File FileName="ToDo\MainActivity.cs" Line="1" Column="1" />
+      <File FileName="ToDo\ViewList.cs" Line="1" Column="1" />
+      <File FileName="ToDo\DataAdapter.cs" Line="88" Column="88" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ToDo AndroidDeviceId-Debug="CB5A1PBA8U" MonoForAntroid.PreferredDevice="Nexus 4" />
+</Properties>

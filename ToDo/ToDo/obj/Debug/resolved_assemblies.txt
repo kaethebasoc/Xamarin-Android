@@ -1,0 +1,2 @@
+\\telmar\users\kb019\My Documents\Projects\ToDo\ToDo\bin\Debug\ToDo.dll
+\\telmar\users\kb019\My Documents\Projects\ToDo\Components\parse-1.4.1\lib\android\Parse.Android.dll

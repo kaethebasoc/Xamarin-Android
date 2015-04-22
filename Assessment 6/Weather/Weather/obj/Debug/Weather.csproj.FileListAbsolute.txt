@@ -1,0 +1,97 @@
+\\telmar\users\kb019\Desktop\New folder (4)\Weather\Weather\bin\Debug\Weather.dll
+\\telmar\users\kb019\Desktop\New folder (4)\Weather\Weather\bin\Debug\Weather.pdb
+\\telmar\users\kb019\Desktop\New folder (4)\Weather\Weather\bin\Debug\Weather.dll.mdb
+\\telmar\users\kb019\Desktop\New folder (4)\Weather\Weather\bin\Debug\Weather.Weather.apk
+\\telmar\users\kb019\Desktop\New folder (4)\Weather\Weather\bin\Debug\Weather.Weather-Signed.apk
+\\telmar\users\kb019\Desktop\New folder (4)\Weather\Weather\bin\Debug\Newtonsoft.Json.dll
+\\telmar\users\kb019\Desktop\New folder (4)\Weather\Weather\bin\Debug\RestSharp.MonoDroid.dll
+\\telmar\users\kb019\Desktop\New folder (4)\Weather\Weather\bin\Debug\Newtonsoft.Json.xml
+\\telmar\users\kb019\Desktop\New folder (4)\Weather\Weather\obj\Debug\Weather.dll
+\\telmar\users\kb019\Desktop\New folder (4)\Weather\Weather\obj\Debug\Weather.pdb
+\\telmar\users\kb019\Desktop\New folder (4)\Weather\Weather\obj\Debug\android\bin\Weather.Weather.apk
+\\telmar\users\kb019\Desktop\New folder (4)\Weather\Weather\obj\Debug\res\layout\main.xml
+\\telmar\users\kb019\Desktop\New folder (4)\Weather\Weather\obj\Debug\res\values\strings.xml
+\\telmar\users\kb019\Desktop\New folder (4)\Weather\Weather\obj\Debug\res\drawable\icon.png
+\\telmar\users\kb019\Desktop\New folder (4)\Weather\Weather\obj\Debug\res\drawable-hdpi\icon.png
+\\telmar\users\kb019\Desktop\New folder (4)\Weather\Weather\obj\Debug\res\drawable-mdpi\icon.png
+\\telmar\users\kb019\Desktop\New folder (4)\Weather\Weather\obj\Debug\res\drawable-xhdpi\icon.png
+\\telmar\users\kb019\Desktop\New folder (4)\Weather\Weather\obj\Debug\res\drawable-xxhdpi\icon.png
+\\telmar\users\kb019\Desktop\New folder (4)\Weather\Weather\obj\Debug\res\drawable-xxxhdpi\icon.png
+\\telmar\users\kb019\Desktop\New folder (4)\Weather\Weather\obj\Debug\res\drawable-hdpi\ic_next.png
+\\telmar\users\kb019\Desktop\New folder (4)\Weather\Weather\obj\Debug\res\drawable-hdpi\ic_previous.png
+\\telmar\users\kb019\Desktop\New folder (4)\Weather\Weather\obj\Debug\res\drawable-mdpi\ic_next.png
+\\telmar\users\kb019\Desktop\New folder (4)\Weather\Weather\obj\Debug\res\drawable-mdpi\ic_previous.png
+\\telmar\users\kb019\Desktop\New folder (4)\Weather\Weather\obj\Debug\res\drawable-xhdpi\ic_next.png
+\\telmar\users\kb019\Desktop\New folder (4)\Weather\Weather\obj\Debug\res\drawable-xhdpi\ic_previous.png
+\\telmar\users\kb019\Desktop\New folder (4)\Weather\Weather\obj\Debug\res\drawable-xxhdpi\ic_next.png
+\\telmar\users\kb019\Desktop\New folder (4)\Weather\Weather\obj\Debug\res\drawable-xxhdpi\ic_previous.png
+\\telmar\users\kb019\Desktop\New folder (4)\Weather\Weather\obj\Debug\res\drawable\clear_day.png
+\\telmar\users\kb019\Desktop\New folder (4)\Weather\Weather\obj\Debug\res\drawable\weatherbg.jpg
+\\telmar\users\kb019\Desktop\New folder (4)\Weather\Weather\obj\Debug\R.cs.flag
+\\telmar\users\kb019\Desktop\New folder (4)\Weather\Weather\obj\Debug\uploadflags.txt
+C:\Users\Kaethe\Desktop\325\Weather\Weather\bin\Debug\Weather.dll
+C:\Users\Kaethe\Desktop\325\Weather\Weather\bin\Debug\Weather.pdb
+C:\Users\Kaethe\Desktop\325\Weather\Weather\bin\Debug\Weather.dll.mdb
+C:\Users\Kaethe\Desktop\325\Weather\Weather\bin\Debug\Weather.Weather.apk
+C:\Users\Kaethe\Desktop\325\Weather\Weather\bin\Debug\Weather.Weather-Signed.apk
+C:\Users\Kaethe\Desktop\325\Weather\Weather\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kaethe\Desktop\325\Weather\Weather\bin\Debug\RestSharp.MonoDroid.dll
+C:\Users\Kaethe\Desktop\325\Weather\Weather\bin\Debug\UrlImageViewHelper.dll
+C:\Users\Kaethe\Desktop\325\Weather\Weather\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kaethe\Desktop\325\Weather\Weather\obj\Debug\Weather.dll
+C:\Users\Kaethe\Desktop\325\Weather\Weather\obj\Debug\Weather.pdb
+C:\Users\Kaethe\Desktop\325\Weather\Weather\obj\Debug\android\bin\Weather.Weather.apk
+C:\Users\Kaethe\Desktop\325\Weather\Weather\obj\Debug\res\layout\main.xml
+C:\Users\Kaethe\Desktop\325\Weather\Weather\obj\Debug\res\values\strings.xml
+C:\Users\Kaethe\Desktop\325\Weather\Weather\obj\Debug\res\drawable\icon.png
+C:\Users\Kaethe\Desktop\325\Weather\Weather\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Kaethe\Desktop\325\Weather\Weather\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\Kaethe\Desktop\325\Weather\Weather\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Kaethe\Desktop\325\Weather\Weather\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Kaethe\Desktop\325\Weather\Weather\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\Kaethe\Desktop\325\Weather\Weather\obj\Debug\res\drawable-hdpi\ic_next.png
+C:\Users\Kaethe\Desktop\325\Weather\Weather\obj\Debug\res\drawable-hdpi\ic_previous.png
+C:\Users\Kaethe\Desktop\325\Weather\Weather\obj\Debug\res\drawable-mdpi\ic_next.png
+C:\Users\Kaethe\Desktop\325\Weather\Weather\obj\Debug\res\drawable-mdpi\ic_previous.png
+C:\Users\Kaethe\Desktop\325\Weather\Weather\obj\Debug\res\drawable-xhdpi\ic_next.png
+C:\Users\Kaethe\Desktop\325\Weather\Weather\obj\Debug\res\drawable-xhdpi\ic_previous.png
+C:\Users\Kaethe\Desktop\325\Weather\Weather\obj\Debug\res\drawable-xxhdpi\ic_next.png
+C:\Users\Kaethe\Desktop\325\Weather\Weather\obj\Debug\res\drawable-xxhdpi\ic_previous.png
+C:\Users\Kaethe\Desktop\325\Weather\Weather\obj\Debug\res\drawable\clear_day.png
+C:\Users\Kaethe\Desktop\325\Weather\Weather\obj\Debug\res\drawable\weatherbg.jpg
+C:\Users\Kaethe\Desktop\325\Weather\Weather\obj\Debug\R.cs.flag
+C:\Users\Kaethe\Desktop\325\Weather\Weather\obj\Debug\uploadflags.txt
+S:\Software\Kaethe Basoc\Assessment 6\Weather\Weather\bin\Debug\Weather.dll
+S:\Software\Kaethe Basoc\Assessment 6\Weather\Weather\bin\Debug\Weather.pdb
+S:\Software\Kaethe Basoc\Assessment 6\Weather\Weather\bin\Debug\Weather.dll.mdb
+S:\Software\Kaethe Basoc\Assessment 6\Weather\Weather\bin\Debug\Weather.Weather.apk
+S:\Software\Kaethe Basoc\Assessment 6\Weather\Weather\bin\Debug\Weather.Weather-Signed.apk
+S:\Software\Kaethe Basoc\Assessment 6\Weather\Weather\bin\Debug\ActionBarSherlock.dll
+S:\Software\Kaethe Basoc\Assessment 6\Weather\Weather\bin\Debug\Newtonsoft.Json.dll
+S:\Software\Kaethe Basoc\Assessment 6\Weather\Weather\bin\Debug\RestSharp.MonoDroid.dll
+S:\Software\Kaethe Basoc\Assessment 6\Weather\Weather\bin\Debug\UrlImageViewHelper.dll
+S:\Software\Kaethe Basoc\Assessment 6\Weather\Weather\bin\Debug\Xamarin.Android.Support.v4.dll
+S:\Software\Kaethe Basoc\Assessment 6\Weather\Weather\bin\Debug\Newtonsoft.Json.xml
+S:\Software\Kaethe Basoc\Assessment 6\Weather\Weather\obj\Debug\Weather.csprojResolveAssemblyReference.cache
+S:\Software\Kaethe Basoc\Assessment 6\Weather\Weather\obj\Debug\Weather.dll
+S:\Software\Kaethe Basoc\Assessment 6\Weather\Weather\obj\Debug\Weather.pdb
+S:\Software\Kaethe Basoc\Assessment 6\Weather\Weather\obj\Debug\android\bin\Weather.Weather.apk
+S:\Software\Kaethe Basoc\Assessment 6\Weather\Weather\obj\Debug\res\layout\main.xml
+S:\Software\Kaethe Basoc\Assessment 6\Weather\Weather\obj\Debug\res\values\strings.xml
+S:\Software\Kaethe Basoc\Assessment 6\Weather\Weather\obj\Debug\res\drawable-hdpi\ic_next.png
+S:\Software\Kaethe Basoc\Assessment 6\Weather\Weather\obj\Debug\res\drawable-hdpi\ic_previous.png
+S:\Software\Kaethe Basoc\Assessment 6\Weather\Weather\obj\Debug\res\drawable-mdpi\ic_next.png
+S:\Software\Kaethe Basoc\Assessment 6\Weather\Weather\obj\Debug\res\drawable-mdpi\ic_previous.png
+S:\Software\Kaethe Basoc\Assessment 6\Weather\Weather\obj\Debug\res\drawable-xhdpi\ic_next.png
+S:\Software\Kaethe Basoc\Assessment 6\Weather\Weather\obj\Debug\res\drawable-xhdpi\ic_previous.png
+S:\Software\Kaethe Basoc\Assessment 6\Weather\Weather\obj\Debug\res\drawable-xxhdpi\ic_next.png
+S:\Software\Kaethe Basoc\Assessment 6\Weather\Weather\obj\Debug\res\drawable-xxhdpi\ic_previous.png
+S:\Software\Kaethe Basoc\Assessment 6\Weather\Weather\obj\Debug\res\drawable\refresh.png
+S:\Software\Kaethe Basoc\Assessment 6\Weather\Weather\obj\Debug\res\drawable-hdpi\icon.png
+S:\Software\Kaethe Basoc\Assessment 6\Weather\Weather\obj\Debug\res\drawable-mdpi\icon.png
+S:\Software\Kaethe Basoc\Assessment 6\Weather\Weather\obj\Debug\res\drawable-xhdpi\icon.png
+S:\Software\Kaethe Basoc\Assessment 6\Weather\Weather\obj\Debug\res\drawable-xxhdpi\icon.png
+S:\Software\Kaethe Basoc\Assessment 6\Weather\Weather\obj\Debug\res\drawable-xxxhdpi\icon.png
+S:\Software\Kaethe Basoc\Assessment 6\Weather\Weather\obj\Debug\res\drawable\suuny.png
+S:\Software\Kaethe Basoc\Assessment 6\Weather\Weather\obj\Debug\R.cs.flag
+S:\Software\Kaethe Basoc\Assessment 6\Weather\Weather\obj\Debug\uploadflags.txt
